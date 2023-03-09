@@ -1,0 +1,48 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    /* margin: 0; */
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+.yellow {
+    color: #F9AB40;
+}
+
+.blue {
+    color: #2A2ABB;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    transition: .3s;
+}
+
+a:hover {
+    color: #F9AB40 !important;
+}
+
+.card {
+    padding: 10px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    border-color: #F9AB40;
+}
+
+button.btn {
+    border: 2px solid #FFCE66;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: 'Raleway', sans-serif;
+}
+
+button.btn:hover {
+    background-color: #FFEC8D;
+}
